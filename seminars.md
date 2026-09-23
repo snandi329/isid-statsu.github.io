@@ -9,7 +9,7 @@ latexmath: true
 
 
 
-## Bayesian Multi-Kernel Gaussian Process Modeling for Nonlinear Multi-Omics Integration
+## Production networks: Some stylized facts and exploring persistent effects of transitory shocks on supply chains
 
 ### Bhargob Kakoty, Dept of Biostatistics and Health Data Science, University of Minnesota
 
@@ -40,6 +40,35 @@ biologically relevant biomarkers associated with cancer survival time.
 <!-- No seminars are currently scheduled. -->
 
 # Past Seminars
+
+
+## Bayesian Multi-Kernel Gaussian Process Modeling for Nonlinear Multi-Omics Integration
+
+### Bhargob Kakoty, Dept of Biostatistics and Health Data Science, University of Minnesota
+
+#### Date : 20th January, 2026
+
+Abstract: Linear models often may not capture complex, nonlinear
+associations between outcomes and features. Additionally, data from
+multiple platforms are now collected on the same individuals,
+requiring methods to integrate multi-platform data. To address these
+issues, we propose Np-BIVP, a Bayesian nonparametric framework that
+uses Gaussian Processes to integrate multi-platform data with multiple
+kernels. It allows for simultaneous variable selection for each data
+platform and accurate prediction of the outcome. We also establish a
+theoretical result on the identifiability of the kernel weights,
+ensuring that our method can measure the importance of each data
+platform in predicting the outcome. We further present an extension of
+our method, called Np-BIVPR, that integrates prior biological
+information and cross-platform regulatory networks between two omics
+data platforms. We conduct a realistic simulation study to show that
+our method outperforms others in variable selection and achieves
+accurate prediction for both continuous and survival
+outcomes. Finally, we apply our method to a Glioblastoma Multiforme
+(GBM) cancer study from The Cancer Genome Atlas (TCGA) and discover
+biologically relevant biomarkers associated with cancer survival time.
+
+* * * * 
 
 ## Nonparametric regression of spatio-temporal data using infinite-dimensional covariates
 
